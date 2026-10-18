@@ -1,0 +1,193 @@
+[
+  {
+    "question": "What is the purpose of the WA health system's Artificial Intelligence Policy?",
+    "expected_doc": "wa-ai-health-policy.pdf",
+    "expected_pages": [1],
+    "reference_answer": "To set the minimum requirements for the responsible, safe, beneficial and effective use of AI technologies within the WA health system."
+  },
+  {
+    "question": "Does the WA Health AI Policy apply to AI used on private devices?",
+    "expected_doc": "wa-ai-health-policy.pdf",
+    "expected_pages": [1],
+    "reference_answer": "Yes, it applies to the use of AI on private devices for a WA health entity work-related purpose."
+  },
+  {
+    "question": "Under what legislation is the WA Health AI Policy mandatory for Health Service Providers?",
+    "expected_doc": "wa-ai-health-policy.pdf",
+    "expected_pages": [1],
+    "reference_answer": "It is mandatory under the Digital Health Policy Framework pursuant to section 26(2)(k) of the Health Services Act 2016."
+  },
+  {
+    "question": "What must a WA health entity do before implementing a new AI use-case?",
+    "expected_doc": "wa-ai-health-policy.pdf",
+    "expected_pages": [2],
+    "reference_answer": "Undertake the Office of Digital Government's AI self-assessment unless an exception applies, follow existing processes for digital health governance, information use, cyber security and where applicable patient safety, clinical and research governance, and provide the assessments to the relevant governing authorities."
+  },
+  {
+    "question": "Who must WA health entities identify to oversee the governance of AI technologies?",
+    "expected_doc": "wa-ai-health-policy.pdf",
+    "expected_pages": [2],
+    "reference_answer": "An executive AI Accountable Officer."
+  },
+  {
+    "question": "How is compliance with the WA Health AI Policy monitored?",
+    "expected_doc": "wa-ai-health-policy.pdf",
+    "expected_pages": [3],
+    "reference_answer": "The Digital Health Unit monitors compliance through an annual Artificial Intelligence Audit Compliance Tool that entities complete and submit to the System Manager; the System Manager can also audit at any time."
+  },
+  {
+    "question": "What must WA health entities specify when contracting for ICT, digital health systems and medical technology?",
+    "expected_doc": "wa-ai-health-policy.pdf",
+    "expected_pages": [3],
+    "reference_answer": "AI requirements for vendors must be specified in writing."
+  },
+  {
+    "question": "What was amended in version 1.1 of the WA Health AI Policy in February 2026?",
+    "expected_doc": "wa-ai-health-policy.pdf",
+    "expected_pages": [4],
+    "reference_answer": "The reference to the WA Health AI Working Group was replaced with the AI Oversight Committee in the related document section."
+  },
+  {
+    "question": "Which organisations does the WA Government AI Policy apply to?",
+    "expected_doc": "wa-ai-policy.pdf",
+    "expected_pages": [4],
+    "reference_answer": "The WA Public Sector plus the WA Police Force, all Government Trading Enterprises, the Department of the Staff of Parliament and Racing and Wagering WA; universities and local governments are encouraged but not required to comply."
+  },
+  {
+    "question": "What definition of artificial intelligence does the WA Government AI Policy adopt?",
+    "expected_doc": "wa-ai-policy.pdf",
+    "expected_pages": [5],
+    "reference_answer": "An engineered system that generates predictive outputs such as content, forecasts, recommendations or decisions for a given set of human-defined objectives or parameters without explicit programming."  },
+  {
+    "question": "At which stages of the AI lifecycle must the WA Government AI Policy principles be considered?",
+    "expected_doc": "wa-ai-policy.pdf",
+    "expected_pages": [5],
+    "reference_answer": "At all stages: design, data and modelling; development and validation; deployment; and monitoring and refinement."
+  },
+  {
+    "question": "Must WA Government employees consider whether a non-AI solution could achieve the same result?",
+    "expected_doc": "wa-ai-policy.pdf",
+    "expected_pages": [5],
+    "reference_answer": "Yes; AI must only be used when it is the best solution for the task."
+  },
+  {
+    "question": "What does the fairness principle in the WA Government AI Policy require regarding data?",
+    "expected_doc": "wa-ai-policy.pdf",
+    "expected_pages": [6],
+    "reference_answer": "Models must be trained and tested on relevant, accurate and generalisable datasets, data biases must be identified and managed, and AI decisions must comply with anti-discrimination laws."
+  },
+  {
+    "question": "Which privacy legislation does the WA Government AI Policy cite under the privacy protection and security principle?",
+    "expected_doc": "wa-ai-policy.pdf",
+    "expected_pages": [7],
+    "reference_answer": "The WA Privacy and Responsible Information Sharing (PRIS) Act 2024 and the Commonwealth Privacy Act 1988."
+  },
+  {
+    "question": "What does the transparency principle require when AI is used to produce an outcome affecting a person?",
+    "expected_doc": "wa-ai-policy.pdf",
+    "expected_pages": [7],
+    "reference_answer": "People must be told when an AI system is engaging with them or when AI has been used to produce an outcome that impacts them, and must have access to an efficient and transparent review mechanism."
+  },
+  {
+    "question": "According to the WA Government AI Policy, can AI-based decisions be made without human review?",
+    "expected_doc": "wa-ai-policy.pdf",
+    "expected_pages": [8],
+    "reference_answer": "No; AI-based functions and decisions must always be subject to human review and intervention, and decision-making remains the responsibility of organisations and individuals."
+  },
+  {
+    "question": "Which WA Acts are listed as relevant legislation in the WA Government AI Policy?",
+    "expected_doc": "wa-ai-policy.pdf",
+    "expected_pages": [8],
+    "reference_answer": "The Privacy and Responsible Information Sharing Act 2024, the Public Sector Management Act 1994, the State Records Act 2000 and the Freedom of Information Act 1992."
+  },
+  {
+    "question": "What are some examples of clinical decision support uses of AI that WA Health is trialling?",
+    "expected_doc": "wa-health-ai-transparency-statement.pdf",
+    "expected_pages": [1],
+    "reference_answer": "Medical image analysis such as radiology, and tracking patient vitals like heart rate to detect early signs of deterioration."
+  },
+  {
+    "question": "What will WA Health not use AI for?",
+    "expected_doc": "wa-health-ai-transparency-statement.pdf",
+    "expected_pages": [2],
+    "reference_answer": "WA Health does not permit AI to make fully automated clinical decisions; all clinical outputs affecting patient care are reviewed and, where required, signed off by a suitably trained and authorised staff member."
+  },
+  {
+    "question": "Who is the AI Accountable Officer for WA Health according to the transparency statement?",
+    "expected_doc": "wa-health-ai-transparency-statement.pdf",
+    "expected_pages": [2],
+    "reference_answer": "The Executive Director of Digital Health at the WA Department of Health."
+  },
+  {
+    "question": "How often will the WA Health AI Transparency Statement be reviewed?",
+    "expected_doc": "wa-health-ai-transparency-statement.pdf",
+    "expected_pages": [2],
+    "reference_answer": "Annually, or earlier if significant changes occur in WA Health's approach to AI."
+  },
+  {
+    "question": "How does the WA Health Digital Strategy describe the use of AI and robotic process automation?",
+    "expected_doc": "wa-health-ai-digital-strategy-2020-2030.pdf",
+    "expected_pages": [39],
+    "reference_answer": "AI and RPA can improve the consumer experience by letting clinicians spend more time on care and less on administrative and repetitive tasks such as writing reports and ordering tests."
+  },
+  {
+    "question": "What example of AI powering early warnings for adverse events is given in the WA Health Digital Strategy?",
+    "expected_doc": "wa-health-ai-digital-strategy-2020-2030.pdf",
+    "expected_pages": [40],
+    "reference_answer": "The Cleveland Clinic uses predictive analytics and AI to identify at-risk ICU patients and prevent emergencies, which improved outcomes and reduced length of stay."
+  },
+  {
+    "question": "Which hard digital capabilities does the WA Health Digital Strategy say will be required?",
+    "expected_doc": "wa-health-ai-digital-strategy-2020-2030.pdf",
+    "expected_pages": [49],
+    "reference_answer": "Enterprise architecture, cloud computing, advanced analytics, automation and AI."
+  },
+  {
+    "question": "How does the WA Health Digital Strategy glossary define artificial intelligence?",
+    "expected_doc": "wa-health-ai-digital-strategy-2020-2030.pdf",
+    "expected_pages": [58],
+    "reference_answer": "AI is not a single technology but many areas of study and technologies such as natural language processing, neural nets and voice recognition that underpin capabilities like diagnostic imaging interpretation, virtual health assistants and algorithmic medicine."
+  },
+  {
+    "question": "Who holds the AI Accountable Officer role in WA Health, and what does the WA Government AI Policy say that role is responsible for?",
+    "expected_doc": "wa-health-ai-transparency-statement.pdf",
+    "expected_pages": [2],
+    "reference_answer": "The Executive Director of Digital Health at the Department of Health; the policy says the AI Accountable Officer is responsible for and has oversight of the governance of AI technologies."
+  },
+  {
+    "question": "Both the WA Government AI Policy and the WA Health AI Policy define an AI system. Are the definitions the same?",
+    "expected_doc": "wa-ai-health-policy.pdf",
+    "expected_pages": [4],
+    "reference_answer": "Essentially yes; both describe an engineered system that generates predictive outputs such as content, forecasts, recommendations or decisions for human-defined objectives without explicit programming."
+  },
+  {
+    "question": "What penalties or fines apply to a WA agency that breaches the AI Policy?",
+    "expected_doc": null,
+    "expected_pages": [],
+    "reference_answer": "I could not find this in the documents."
+  },
+  {
+    "question": "Which AI vendors or products has WA Health approved for clinical use?",
+    "expected_doc": null,
+    "expected_pages": [],
+    "reference_answer": "I could not find this in the documents."
+  },
+  {
+    "question": "How much funding has the WA Government allocated to AI projects in the 2026 budget?",
+    "expected_doc": null,
+    "expected_pages": [],
+    "reference_answer": "I could not find this in the documents."
+  },
+  {
+    "question": "What is the maximum number of AI systems a WA agency may register per year?",
+    "expected_doc": null,
+    "expected_pages": [],
+    "reference_answer": "I could not find this in the documents."
+  },
+  {
+    "question": "What is the capital city of Peru?",
+    "expected_doc": null,
+    "expected_pages": [],
+    "reference_answer": "I could not find this in the documents."
+  }
+]
