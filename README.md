@@ -23,6 +23,8 @@ Five publicly available Western Australian Government documents: the WA Governme
 
 Evaluation set: 32 hand-written questions across the 5 documents, including 2 cross-document questions and 5 unanswerable ones (4 on-topic "near misses" to test refusal). Run `python eval/run_eval.py` to reproduce.
 
+![Power BI evaluation dashboard](eval/powerbi-dashboard.png)
+
 ## Design notes
 - **Document-name boosting** on top of embedding similarity, added after finding that near-identical sections in different documents (e.g. the fairness principle) were retrieved from the wrong source
 - **Refusal threshold** calibrated on unanswerable questions: off-topic queries score ≤ 0.17, on-topic ~0.55+, short factual questions ~0.35, so the threshold sits at 0.33
